@@ -1,0 +1,78 @@
+body {
+  background-color: #bac9b9;
+  text-align: center;
+}
+
+h1 {
+  color: #f25161;
+  font-weight: bolder;
+  font-family: orpheuspro, serif;
+  font-size: 5.5rem;
+  text-align: right;
+  padding: 0 10% 8% 0;
+
+}
+
+h2 {
+  padding: 6% 0 0 8%;
+  font-weight: bolder;
+  color: black;
+  text-align: left;
+  font-size: 16rem;
+}
+
+h3 {
+  text-align: center;
+  font-family: orpheuspro, serif;
+  font-size: 0.85rem;
+  font-weight: lighter;
+}
+
+
+p {
+  font-family: orpheuspro, serif;
+  font-size: 1rem;
+  margin: 0 1% 0 55%;
+  text-align: right;
+  font-stretch: expanded;
+  padding-top: 10px;
+
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.garden-lake {
+  padding-bottom: 1%;
+}
+
+.image2 {
+  padding-left: 5%;
+  padding-right: 1%;
+}
+
+.image3 {
+  padding-right: 5%;
+  padding-left: 1%;
+}
+
+/* footer */
+#footer {
+  padding: 7% 15%;
+}
+
+.social-media{
+  size: 5x;
+  color: black;
+  margin-left: 0;
+  margin-right: 2%;
+  margin-bottom: 2%;
+}
+
+.social-media:hover {
+  color: #8f8f8f;
+}
